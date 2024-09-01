@@ -1,6 +1,6 @@
 # Learning_at_PIAIC
 <br>
-<b> <i>Learning at PIAIC (Presidential Initiative for Artificial Intelligence and Computing)</i></b></br>
+<b> <i> <u>Learning at PIAIC (Presidential Initiative for Artificial Intelligence and Computing) </u></i></b></br>
 <br> <b> One year Certified Cloud Applied Generative AI Engineer Batch-61 Quarter: 1 </b></br>
 <br>
 Quarter1 Course is comprising of the following: </br>
